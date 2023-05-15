@@ -1,0 +1,5 @@
+seuil = 0.3
+
+conf_seuil = 1.0
+
+On a adapté à la main le paramètre scale pour chaque image. Son influence peut être non négligeable, par exemple sur les faux.
